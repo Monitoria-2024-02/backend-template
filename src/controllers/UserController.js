@@ -2,6 +2,7 @@
 const UserService = require('../service/UserService.js')
 const userService = new UserService()
 
+
 /**
  * Controlador de rotas relacionadas a usuários.
  * Cada função aqui atua como intermediária entre as requisições HTTP e a lógica da camada de serviço.
